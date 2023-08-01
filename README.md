@@ -1,2 +1,2 @@
 # ca-roussillon-citrous-bus-gradle
-exo Roussillon Bus for MonTransit Gradle project
+exo Le Richelain / Roussillon buses for MonTransit Gradle project
